@@ -1,5 +1,5 @@
 {
-  "name": "spotonlive/laravel-google-ads",
+  "name": "tomkeyte/laravel-google-ads",
   "type": "library",
   "description": "Google Ads API for Laravel",
   "minimum-stability": "dev",
@@ -10,13 +10,18 @@
     "adwords",
     "google"
   ],
-  "homepage": "https://github.com/nikolajlovenhardt/laravel-google-ads",
+  "homepage": "https://github.com/tomkeyte/laravel-google-ads",
   "license": "MIT",
   "authors": [
     {
       "name": "Nikolaj Petersen",
       "email": "nikolaj.lovenhardt@gmail.com",
       "homepage": "http://github.com/nikolajlovenhardt"
+    },
+    {
+      "name": "Tom Keyte",
+      "email": "tom.keyte@merj.com",
+      "homepage": "https://merj.com"
     }
   ],
   "require": {
